@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "plane1Select.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
