@@ -7,7 +7,7 @@ workflows:
           - certificate_credentials # <-- (CERTIFICATE_PRIVATE_KEY)
         vars:
           XCODE_PROJECT: "Soaring Eagles Game.xcodeproj"
-          XCODE_SCHEME: "project"
+          XCODE_SCHEME: "Soaring Eagles Game"
           BUNDLE_ID: "com.soeagles.game"
           APP_STORE_APPLE_ID: 6742115352
         xcode: latest
